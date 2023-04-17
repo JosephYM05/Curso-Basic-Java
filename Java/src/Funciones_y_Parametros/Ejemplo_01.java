@@ -1,6 +1,6 @@
 package Funciones_y_Parametros;
 
-public class Funciones_y_Parametros {
+public class Ejemplo_01 {
     public static void main(String[] args) {
 
         holaMundo();
