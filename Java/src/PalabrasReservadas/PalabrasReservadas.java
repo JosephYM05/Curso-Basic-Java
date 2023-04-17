@@ -1,4 +1,4 @@
-package Clase01;
+package PalabrasReservadas;
 
 public class PalabrasReservadas {
     public static void main(String[] args) {
