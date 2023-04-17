@@ -1,3 +1,5 @@
+package Clase01;
+
 public class Operadores {
     public static void main(String[] args) {
         // Declaración e inicialización de variables
