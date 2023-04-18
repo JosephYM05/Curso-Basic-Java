@@ -1,4 +1,5 @@
-public class SobrecargaDeFunciones {
+package Funciones_y_Parametros;
+public class Ejemplo_SobrecargaDeFunciones_04 {
     public static void main(String[] args) {
 
         holaMundo();
